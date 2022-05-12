@@ -4,8 +4,10 @@ body {
 }
 
 .game-intro {
-  float: left;
+  display: flex;
+  /* float: left; */
   padding: 0% 10%;
+  margin: 20px;
 }
 
 .game-intro p {
